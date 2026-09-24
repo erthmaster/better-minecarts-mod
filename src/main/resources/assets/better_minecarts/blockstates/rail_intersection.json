@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "shape=north_south": { "model": "better_minecarts:rail_intersection" },
+        "shape=east_west":   { "model": "better_minecarts:rail_intersection" }
+    }
+}

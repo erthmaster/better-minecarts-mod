@@ -1,0 +1,48 @@
+# Gradle build artifacts and cache
+.gradle/
+build/
+bin/
+out/
+
+# IntelliJ IDEA
+.idea/
+.idea_modules/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+*.launch
+
+# Visual Studio Code
+.vscode/
+
+# Run directories (generated when testing/debugging the mod in the dev environment)
+/run/
+/run_server/
+/run_client/
+/saves/
+/logs/
+/crash-reports/
+
+# Java & OS compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.netpath
+
+# ...but the Gradle wrapper's jar is needed to build
+!gradle/wrapper/gradle-wrapper.jar
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Developer / Local Configuration overrides
+gradle.properties.user
+local.properties

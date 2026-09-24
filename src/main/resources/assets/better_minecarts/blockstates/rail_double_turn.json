@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,powered=false": { "model": "better_minecarts:rail_double_turn" },
+        "facing=west,powered=false":  { "model": "better_minecarts:rail_double_turn", "y": 90 },
+        "facing=north,powered=false": { "model": "better_minecarts:rail_double_turn", "y": 180 },
+        "facing=east,powered=false":  { "model": "better_minecarts:rail_double_turn", "y": 270 },
+        "facing=south,powered=true":  { "model": "better_minecarts:rail_double_turn_mirrored" },
+        "facing=west,powered=true":   { "model": "better_minecarts:rail_double_turn_mirrored", "y": 90 },
+        "facing=north,powered=true":  { "model": "better_minecarts:rail_double_turn_mirrored", "y": 180 },
+        "facing=east,powered=true":   { "model": "better_minecarts:rail_double_turn_mirrored", "y": 270 }
+    }
+}

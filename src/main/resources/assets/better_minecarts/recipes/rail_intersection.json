@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " R ",
+        "RIR",
+        " R "
+    ],
+    "key": {
+        "R": { "item": "minecraft:rail" },
+        "I": { "item": "minecraft:iron_ingot" }
+    },
+    "result": { "item": "better_minecarts:rail_intersection", "count": 1 }
+}

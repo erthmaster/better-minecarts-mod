@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RLR",
+        " R "
+    ],
+    "key": {
+        "R": { "item": "minecraft:rail" },
+        "L": { "item": "minecraft:lever" }
+    },
+    "result": { "item": "better_minecarts:rail_double_turn", "count": 1 }
+}

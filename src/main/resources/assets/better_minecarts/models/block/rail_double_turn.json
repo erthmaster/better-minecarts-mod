@@ -1,0 +1,6 @@
+{
+    "parent": "block/rail_flat",
+    "textures": {
+        "rail": "better_minecarts:blocks/rail_double_turn"
+    }
+}

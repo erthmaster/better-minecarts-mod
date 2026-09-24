@@ -1,0 +1,16 @@
+[
+{
+  "modid": "better_minecarts",
+  "name": "Better Minecarts",
+  "description": "Heavier, solid minecarts that follow curves smoothly, chain into trains with leads, and run furnace-cart engines on distance fuel. Adds intersection and double-turn rails.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["erthmaster"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
